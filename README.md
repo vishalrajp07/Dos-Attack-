@@ -16,9 +16,9 @@ This tool should only be used in compliance with applicable laws and regulations
 Getting Started:
     sudo apt install hping3 -y
     sudo yum -y install hping3
-    Clone the repository: 
-    Navigate to the project directory: cd 
-    Make the script executable: chmod +x your_script.sh
+    Clone the repository: https://github.com/vishalrajp07/Dos-Attack-.git
+    Navigate to the project directory: cd Dos-Attack-.git
+    Make the script executable: chmod +x Dos.sh
     Run the script with appropriate parameters: ./your_script.sh -t target_ip -d duration -i intensity
 
 Contribution:
